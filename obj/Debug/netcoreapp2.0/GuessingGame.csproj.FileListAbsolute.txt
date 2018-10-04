@@ -1,0 +1,11 @@
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\bin\Debug\netcoreapp2.0\GuessingGame.deps.json
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\bin\Debug\netcoreapp2.0\GuessingGame.runtimeconfig.json
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\bin\Debug\netcoreapp2.0\GuessingGame.runtimeconfig.dev.json
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\bin\Debug\netcoreapp2.0\GuessingGame.dll
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\bin\Debug\netcoreapp2.0\GuessingGame.pdb
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.AssemblyInfo.cs
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.dll
+C:\Users\Changing Legacy 1\Documents\Coding_Dojo\C#\GuessingGame\obj\Debug\netcoreapp2.0\GuessingGame.pdb
